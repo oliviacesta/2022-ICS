@@ -12,7 +12,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author kateselby
+ * @author kateselby and olivia cesta
  */
 public class DisplayForm extends javax.swing.JFrame {
 
