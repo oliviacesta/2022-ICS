@@ -5,7 +5,7 @@
 
 /**
  *
- * @author oliviacesta
+ * @author kateselby and oliviacesta
  */
 public class Main {
 
